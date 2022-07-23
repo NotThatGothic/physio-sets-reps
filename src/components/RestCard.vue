@@ -1,6 +1,6 @@
 <template>
 	<div class="row my-3">
-		<div class="col-10">
+		<div class="col-9">
 			<div class="card bg-info text-white h-100">
 				<div class="card-body d-flex align-items-center">
 					<h2>Rest</h2>

@@ -1,6 +1,6 @@
 <template>
 	<div class="row my-3">
-		<div class="col-10">
+		<div class="col-9">
 			<div class="card h-100">
 				<div class="card-header">
 					<h2>{{ title }}</h2>
